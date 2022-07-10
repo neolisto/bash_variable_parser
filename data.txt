@@ -1,0 +1,4 @@
+VARIABLE1=variable1value
+PATH_TO_SMTHNG=/home/dir/target
+###commented line####
+EMPTY_VARIABLE=
